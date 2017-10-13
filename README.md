@@ -1,2 +1,2 @@
 # Calculation
-Normal calculation with javascript
+Normal calculation with JavaScript
